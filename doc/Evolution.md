@@ -1,5 +1,7 @@
 # Evolution of Version Control System 
 
+---
+
 Recognizing the need for effective version control is a crucial starting point. However, the existence of a problem statement alone does not bring a Version Control System into play. To truly appreciate the value of such systems, it's vital to examine the landscape of version control before and after their introduction and understand the evolution that led to their current state.
 
 Let's look at how VCS evolved:
@@ -33,3 +35,4 @@ Let's look at how VCS evolved:
   Alongside the rise of Git, online hosted version control services like GitHub, GitLab, and Bitbucket gained prominence. These platforms provided a centralized place to store and collaborate on Git repositories, making it easier for developers to share and contribute to open-source projects.
 
    
+[Documentation Index](Index.md)
